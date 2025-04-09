@@ -1,0 +1,2 @@
+# No additional requirements needed for this simple static website
+# Python's built-in http.server module is used for local development

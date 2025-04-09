@@ -1,0 +1,10 @@
+{
+  "name": "recursivesia-website",
+  "version": "1.0.0",
+  "description": "Minimal website for Recursive SIA",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
