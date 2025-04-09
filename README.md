@@ -4,13 +4,11 @@ Minimal website for Recursive SIA.
 
 ## Installation and Setup
 
-### Prerequisites
+Prerequisites
 - Git
 - Python 3.7+ or Node.js
 
-### Installation
-
-1. Clone this repository:
+Clone this repository:
    ```bash
    git clone https://github.com/yourusername/recursivesia-website.git
    cd recursivesia-website
@@ -69,7 +67,7 @@ Or:
    npm start
    ```
 
-### Access the Website
+## Access the Website
 
 Open `http://localhost:8000` in your browser.
 
